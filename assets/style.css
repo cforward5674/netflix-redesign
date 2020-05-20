@@ -39,7 +39,7 @@ body {
   {right: -400%};
 }
 
-.netflix span {
+/* .netflix span {
   position: absolute;
   top: 0;
   width: 100px;
@@ -69,7 +69,7 @@ body {
   transform: rotate(90deg);
  
   
-}
+} */
 
 h3 {
   position: relative;
@@ -82,6 +82,19 @@ h3 {
   text-transform: uppercase;
   letter-spacing: 10px;
   overflow: hidden;
-  box-shadow: 10px 20px 40px #07A7B7;
+  box-shadow: 10px 20px 100px #07A7B7;
 }
 
+h2 {
+  position: relative;
+  margin-top: 10;
+  padding: 30;
+  text-align: center;
+  font-family: arial;
+  color: rgb(71, 73, 73);
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  overflow: hidden;
+  box-shadow: 10px 20px 40px rgb(108, 109, 110);
+}
